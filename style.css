@@ -1,0 +1,19 @@
+/* Keep our titles in thecenter of the page */
+body {
+  text-align: center;
+}
+
+/* Add your styles under this line! */
+.title {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-size: 30px;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+}
+
+.subtitle {
+  margin-top: 5px;
+  margin-bottom: 50px;
+  font-size: 15px;
+}
